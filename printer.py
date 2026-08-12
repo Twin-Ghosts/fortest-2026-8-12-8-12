@@ -1,2 +1,1 @@
-print("for pr final")
-print("test for 3 already")
+print("all done")

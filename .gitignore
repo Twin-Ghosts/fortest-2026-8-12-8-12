@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+dist/
+.ruff_cache/
+.pytest_cache/
+*.sock
+.coverage
+/result
+.worktrees/
+evals/
+.ua/
+state/
