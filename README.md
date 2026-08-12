@@ -2,7 +2,7 @@
 fortest_remote
 ## 项目简介
 本项目为测试git功能所用。包括：
-for_test_3:分支与 PR 流程:
+new_br_3:分支与 PR 流程:
 for_test_4:模拟协作冲突：
 for_test_5:错误恢复：
 ## clone方式：
