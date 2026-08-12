@@ -1,1 +1,1 @@
-print("all done")
+print("1")
