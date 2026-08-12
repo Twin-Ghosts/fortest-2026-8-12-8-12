@@ -1,1 +1,2 @@
-print("q")
+
+print("2")
