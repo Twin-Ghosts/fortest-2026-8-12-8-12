@@ -57,3 +57,5 @@ revert是一次新的提交消除掉之前提交的影响：
 
 
     2
+
+此外，revert前需要commit 或 stash，而reset不需要。
