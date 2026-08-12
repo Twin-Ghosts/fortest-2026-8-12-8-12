@@ -9,3 +9,4 @@ for_test_5:错误恢复：
 在终端使用命令
 git clone git@github.com:Twin-Ghosts/fortest-2026-8-12-8-12.git
 即可克隆到当前文件夹
+无有意义的运行程序，仅象征性的print的python程序。
